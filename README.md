@@ -1,0 +1,2 @@
+# NIQ-SYNDICATE
+new repository
